@@ -1,2 +1,2 @@
 # sapFfmBilling - SAP FFM Billing
-> Business Application
+> My Business Application
